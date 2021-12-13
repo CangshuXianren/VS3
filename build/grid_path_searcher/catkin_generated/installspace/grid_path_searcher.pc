@@ -1,0 +1,8 @@
+prefix=/home/jyfpc/VS3_2_ws/install
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
