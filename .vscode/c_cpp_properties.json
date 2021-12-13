@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "${workspaceFolder}/src/grid_path_searcher/include/**",
+                "/usr/include/**",
+                "/usr/local/include/ompl-1.5"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}
